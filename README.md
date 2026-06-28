@@ -45,7 +45,7 @@ Important: Use an App Password for Gmail, not your main password.
 Generate one at: Google Account → Security → App Passwords.
 
 Run the Bot
-python main_community.py
+python main.py
 
 You'll see:
 🛡️ Security Bot (precise filter version)
