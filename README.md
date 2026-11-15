@@ -95,6 +95,8 @@ If you need:
 🔔 SMS & other messengers – Get alerts via SMS, WhatsApp, or Iranian messengers.
 
 💼 White‑label branding – Rebrand the bot for your own company.
+Services & pricing: atrincode.ir/pricing
+Security services: atrincode.ir/security
 
 ❓ FAQ
 Q: Why do I need to give my email password?
